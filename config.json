@@ -1,0 +1,8 @@
+    {
+        "datasource": {
+            "url": "mongodb://localhost/Tododb"
+        },
+        "server": {
+            "port": "3000"
+        }
+    }
