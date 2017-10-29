@@ -1,7 +1,7 @@
 {
-  "name": "todolistapi",
+  "name": "nodejsapiseed",
   "version": "1.0.0",
-  "description": "A todoListApi",
+  "description": "A nodejsAPI seed",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
